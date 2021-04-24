@@ -5,7 +5,7 @@
 ### Локальный запуск
 1. Скачайте репозиторий командой
   
-	`git clone .git`
+	`git clone https://github.com/SerhiiAlieksieiev/password-check-script.git`
 2. Сделайте виртуальное окружение командой
  
  	`python -m venv --copies /полный/путь/до/папки/виртуального/окружения `
